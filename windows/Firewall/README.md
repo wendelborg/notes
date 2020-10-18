@@ -1,1 +1,3 @@
+##
+
 C:\Windows\System32\LogFiles\Firewall\domainfw.log 
