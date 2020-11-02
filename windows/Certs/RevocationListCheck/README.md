@@ -1,0 +1,1 @@
+certutil -f -urlfetch -verify <filename>.cer
